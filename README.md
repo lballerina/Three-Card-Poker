@@ -10,7 +10,7 @@
 - If the dealer’s hand is better, the player loses.
 
 ## Card Details
-- A deck full deck of has 52 cards
+- A full deck of cards has 52 cards
 - There are 4 suits: Hearts, Spades, Clubs, and Diamonds
 - Each suit has 13 cards (increasing order): 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack (J), Queen (Q), King (K), Ace (A) 2 is the lowest, Ace is the highest
 - The cards increase in the order shown here (i.e. 7 > 6; J > 10; A > K; etc.)
