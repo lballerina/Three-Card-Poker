@@ -10,12 +10,15 @@
 - If the dealer’s hand is better, the player loses.
 
 ## Card Details
-A deck full deck of has 52 cards
-There are 4 suits: Hearts, Spades, Clubs, and Diamonds
-Each suit has 13 cards (increasing order): 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack (J), Queen (Q), King (K), Ace (A) 2 is the lowest, Ace is the highest
-The cards increase in the order shown here (i.e. 7 > 6; J > 10; A > K; etc.)
+- A deck full deck of has 52 cards
+- There are 4 suits: Hearts, Spades, Clubs, and Diamonds
+- Each suit has 13 cards (increasing order): 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack (J), Queen (Q), King (K), Ace (A) 2 is the lowest, Ace is the highest
+- The cards increase in the order shown here (i.e. 7 > 6; J > 10; A > K; etc.)
+- Player can play 6 rows with the same deck of cards before it is reshuffled with all used cards returned to it.
 
 ### Payout Chart
+A betting system is incorporated, following the payout chart below.
+
 | Hand                       | What it means                                                     | Example                               | Payout (only benefits the player) |
 |----------------------------|-------------------------------------------------------------------|---------------------------------------|-----------------------------------|
 | Straight Flush (best hand) | 3 cards in a row of the same suit                                 | 8, 9, 10 all Hearts                   | 20 times the bet                  |

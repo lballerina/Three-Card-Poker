@@ -6,7 +6,6 @@
 import random
 import time
 
-
 class Card:
     # A class of cards in a standard deck with different suits and values
     suits = [chr(9829), chr(9830), chr(9827), chr(9824)]
